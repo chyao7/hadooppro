@@ -1,0 +1,7 @@
+com/mr/wordcount/WordCountMapper.class
+com/mr/flowsum/FlowSumReducer.class
+com/mr/wordcount/WordCountReduce.class
+com/mr/wordcount/WordCountDriver.class
+com/mr/flowsum/FlowSum.class
+com/mr/flowsum/FlowSumDriver.class
+com/mr/flowsum/FlowSumMapper.class

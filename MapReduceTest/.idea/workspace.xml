@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d826e170-2675-48a6-8222-cebda0577325" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>waf</find>
+      <find>Conb</find>
+      <find>combiner</find>
+      <find>c</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/inputformat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inputmr/FileIuputFormat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inputmr/WholeFileIuputFormat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/filrinputformatmr/WholeFileIputFormat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/wordcount/WordCountMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/filrinputformatmr/WholeFileInputFormatReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/filrinputformatmr/WholeFileInputFormatMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/filrinputformatmr/FileIputFormatDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/filrinputformatmr/WholeRecordReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/flowsum/FlowPartitioner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/wrotablecomparable/Flowbean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/wrotablecomparable/FlowBeanReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/wrotablecomparable/FlowBeanMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/wrotablecomparable/FlowBeanPartitioner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/wrotablecomparable/FlowBeanDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/flowsum/FlowSumDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/flowsum/FlowParitioner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/wordcount/WordCountCombiner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/wordcount/WordCountReduce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/wordcount/WordCountDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/ordermaxgroupcomparator/OrderSortReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/ordermaxgroupcomparator/Conf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/ordermaxgroupcomparator/OrderBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/ordermaxgroupcomparator/OrderGroupComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/outputformat/OutPutFormat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/outputformat/OutPutFormatDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/outputformat/OutPutFormatRecordWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/outputformat/OutputFormatReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/ordermaxgroupcomparator/OrderSortMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/ordermaxgroupcomparator/OrderSortDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/tablemr/TableMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/tablemr/TableReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/tablemr/TableBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/tablemr/TableDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/mapjoin/DistributeCachMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/mapjoin/DistributeCachDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/outputformat/OutPutFormatMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/compress/TestCompress.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/oneindex/OneIndexMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/oneindex/OneIndexReduce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/oneindex/OneIndexDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/oneindex/TwoIndexMaper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/oneindex/TwoIndexDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/oneindex/TwoIndexReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/oneindex/OneIndexReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/tablemr/TopTenMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/topten/topten2/Topten2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/topten/TopTenReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/topten/TopTenDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/topten/TopTenMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mr/topten/TopTenBean.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="296" />
+    <option name="y" value="156" />
+    <option name="width" value="1393" />
+    <option name="height" value="792" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mr" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../code_practice" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.49080458" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.mr.topten" />
+      <recent name="com.mr.topten.topten2" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mr.topten" />
+      <recent name="com.mr.tablemr" />
+      <recent name="com.mr.outputformat" />
+      <recent name="com.mr.ordermaxgroupcomparator" />
+      <recent name="com.mr.filrinputformatmr" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TopTenDriver">
+    <configuration name="DistributeCachDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.mapjoin.DistributeCachDriver" />
+      <module name="MapReduceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.mapjoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneIndexDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.oneindex.OneIndexDriver" />
+      <module name="MapReduceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.oneindex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCompress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.compress.TestCompress" />
+      <module name="MapReduceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.compress.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopTenDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.topten.TopTenDriver" />
+      <module name="MapReduceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.topten.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoIndexDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mr.oneindex.TwoIndexDriver" />
+      <module name="MapReduceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.oneindex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DistributeCachDriver" />
+      <item itemvalue="Application.TestCompress" />
+      <item itemvalue="Application.OneIndexDriver" />
+      <item itemvalue="Application.TwoIndexDriver" />
+      <item itemvalue="Application.TopTenDriver" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TopTenDriver" />
+        <item itemvalue="Application.TwoIndexDriver" />
+        <item itemvalue="Application.OneIndexDriver" />
+        <item itemvalue="Application.TestCompress" />
+        <item itemvalue="Application.DistributeCachDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d826e170-2675-48a6-8222-cebda0577325" name="Default Changelist" comment="" />
+      <created>1555416849581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555416849581</updated>
+      <workItem from="1555416853133" duration="232000" />
+      <workItem from="1555417111141" duration="190000" />
+      <workItem from="1555417316523" duration="30000" />
+      <workItem from="1555417461728" duration="52000" />
+      <workItem from="1555417674986" duration="6445000" />
+      <workItem from="1555465030737" duration="3923000" />
+      <workItem from="1555468973224" duration="601000" />
+      <workItem from="1555478610313" duration="689000" />
+      <workItem from="1555481713817" duration="605000" />
+      <workItem from="1555491214759" duration="2361000" />
+      <workItem from="1555498591155" duration="5421000" />
+      <workItem from="1555555054975" duration="13551000" />
+      <workItem from="1555596292451" duration="547000" />
+      <workItem from="1555635495785" duration="1640000" />
+      <workItem from="1555639069120" duration="1262000" />
+      <workItem from="1555654530155" duration="244000" />
+      <workItem from="1555655607547" duration="580000" />
+      <workItem from="1555673000685" duration="687000" />
+      <workItem from="1555673703578" duration="8093000" />
+      <workItem from="1555723707090" duration="9130000" />
+      <workItem from="1555747304452" duration="6659000" />
+      <workItem from="1555760851273" duration="7640000" />
+      <workItem from="1555768675460" duration="207000" />
+      <workItem from="1555770137918" duration="1865000" />
+      <workItem from="1555772465856" duration="737000" />
+      <workItem from="1555812273319" duration="5946000" />
+      <workItem from="1555826776546" duration="738000" />
+      <workItem from="1555831576253" duration="1208000" />
+      <workItem from="1555847835414" duration="1180000" />
+      <workItem from="1555904891560" duration="910000" />
+      <workItem from="1555914366704" duration="197000" />
+      <workItem from="1555916437021" duration="16000" />
+      <workItem from="1555917433642" duration="54000" />
+      <workItem from="1555923994532" duration="1534000" />
+      <workItem from="1555925550471" duration="5366000" />
+      <workItem from="1555995734141" duration="638000" />
+      <workItem from="1556172331945" duration="7719000" />
+      <workItem from="1556181431792" duration="447000" />
+      <workItem from="1556182600993" duration="294000" />
+      <workItem from="1556183254658" duration="5384000" />
+      <workItem from="1556437952781" duration="83000" />
+      <workItem from="1556873575734" duration="633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="105738000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2434975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.34249473" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4623218" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26476577" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299389" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31160897" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.34143764" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3299389" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24958494" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17542888" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299389" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28309572" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39918533" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299389" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31160897" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32892057" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3299389" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24958494" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mr/tablemr/TableMapper.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mr/topten/TopTenMapper.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/filrinputformatmr/WholeFileIputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="1" lean-forward="true" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/filrinputformatmr/WholeFileInputFormatMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="13" lean-forward="true" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/filrinputformatmr/WholeFileInputFormatReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="1" lean-forward="true" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/filrinputformatmr/FileIputFormatDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="21" lean-forward="true" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/mapjoin/DistributeCachMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="54" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/filrinputformatmr/WholeRecordReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="22" column="34" lean-forward="true" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/mapjoin/DistributeCachDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="17" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/flowsum/FlowParitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="13" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/outputformat/OutPutFormatDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="30" column="29" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/outputformat/OutputFormatReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="15" column="23" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1030" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/outputformat/OutPutFormatMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/outputformat/OutPutFormatRecordWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="24" column="13" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/outputformat/OutPutFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="5" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/compress/TestCompress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-610">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/oneindex/TwoIndexDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="36" column="62" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/oneindex/TwoIndexReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/oneindex/TwoIndexMaper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/oneindex/OneIndexDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/oneindex/OneIndexReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/oneindex/OneIndexMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/flowsum/FlowSumMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/flowsum/FlowSumDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="23" column="32" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/flowsum/FlowSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/flowsum/FlowSumReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/tablemr/TableReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="15" column="29" lean-forward="true" selection-end-line="49" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/ordermaxgroupcomparator/OrderGroupComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/ordermaxgroupcomparator/OrderSortDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/ordermaxgroupcomparator/OrderBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#1350#1351#0" expanded="true" />
+            <element signature="e#1381#1382#0" expanded="true" />
+            <element signature="e#1426#1427#0" expanded="true" />
+            <element signature="e#1466#1467#0" expanded="true" />
+            <element signature="e#1498#1499#0" expanded="true" />
+            <element signature="e#1526#1527#0" expanded="true" />
+            <element signature="e#1568#1569#0" expanded="true" />
+            <element signature="e#1602#1603#0" expanded="true" />
+            <element signature="e#1648#1649#0" expanded="true" />
+            <element signature="e#1691#1692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/ordermaxgroupcomparator/OrderSortMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/topten/topten2/Topten2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/ordermaxgroupcomparator/OrderSortReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/topten/TopTenReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/topten/TopTenDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.2/hadoop-common-2.7.2.jar!/org/apache/hadoop/io/BinaryComparable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/topten/TopTenBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1052#1053#0" expanded="true" />
+            <element signature="e#1080#1081#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1168#1169#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
+            <element signature="e#1244#1245#0" expanded="true" />
+            <element signature="e#1274#1275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/software/jdk1.8.0_201/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="510" selection-start-line="510" selection-end-line="510" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/software/jdk1.8.0_201/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/software/jdk1.8.0_201/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-common/2.7.2/hadoop-mapreduce-client-common-2.7.2.jar!/org/apache/hadoop/mapred/LocalJobRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="491" selection-start-line="491" selection-end-line="491" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2.jar!/org/apache/hadoop/mapreduce/lib/map/WrappedMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.2/hadoop-common-2.7.2.jar!/org/apache/hadoop/fs/FileSystem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="1290" selection-start-line="1290" selection-end-line="1290" />
+          <folding>
+            <element signature="e#0#62837#0" expanded="true" />
+            <element signature="e#50722#50723#0" expanded="true" />
+            <element signature="e#50794#50795#0" expanded="true" />
+            <element signature="e#50837#50838#0" expanded="true" />
+            <element signature="e#50898#50899#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.2/hadoop-common-2.7.2.jar!/org/apache/hadoop/io/LongWritable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#636#637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.2/hadoop-common-2.7.2.jar!/org/apache/hadoop/io/Text.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+          <folding>
+            <element signature="e#5098#5099#0" expanded="true" />
+            <element signature="e#5129#5130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2.jar!/org/apache/hadoop/mapreduce/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mr/topten/TopTenMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#365#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.2/hadoop-common-2.7.2.jar!/org/apache/hadoop/util/LineReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2.jar!/org/apache/hadoop/mapreduce/lib/input/UncompressedSplitLineReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2.jar!/org/apache/hadoop/mapreduce/lib/input/LineRecordReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2.jar!/org/apache/hadoop/mapred/MapTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="293" selection-start-line="293" selection-end-line="293" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2.jar!/org/apache/hadoop/mapreduce/task/MapContextImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49080458" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49080458" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49080458" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49080458" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MapReduceTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49080458" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: asm:asm:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49080458" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

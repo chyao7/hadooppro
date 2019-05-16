@@ -1,0 +1,4 @@
+com/chyao/mr/wordcount/WordCountDriver.class
+com/bigdata/hdfstest/HdfsProcess.class
+com/chyao/mr/wordcount/WordCountMapper.class
+com/chyao/mr/wordcount/WordCountReduce.class
